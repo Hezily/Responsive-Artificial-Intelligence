@@ -1,0 +1,1 @@
+"I built a responsive AI system using the MERN stack (MongoDB, Express.js, React.js, Node.js). It features real-time interactions, seamless responsiveness, and efficient AI-powered processing, ensuring a dynamic user experience across all devices."
